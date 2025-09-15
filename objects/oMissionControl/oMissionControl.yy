@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oTrash",
+  "%Name":"oMissionControl",
   "eventList":[],
   "managed":true,
-  "name":"oTrash",
+  "name":"oMissionControl",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

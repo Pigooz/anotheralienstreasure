@@ -48,6 +48,7 @@
     {"id":{"name":"Minigame1","path":"rooms/Minigame1/Minigame1.yy",},},
     {"id":{"name":"Minigame2","path":"rooms/Minigame2/Minigame2.yy",},},
     {"id":{"name":"Minigame3","path":"rooms/Minigame3/Minigame3.yy",},},
+    {"id":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
     {"id":{"name":"sBuilding1","path":"sprites/sBuilding1/sBuilding1.yy",},},
     {"id":{"name":"sCharacter","path":"sprites/sCharacter/sCharacter.yy",},},
     {"id":{"name":"sMissionControl","path":"sprites/sMissionControl/sMissionControl.yy",},},
@@ -62,6 +63,7 @@
     {"roomId":{"name":"Minigame1","path":"rooms/Minigame1/Minigame1.yy",},},
     {"roomId":{"name":"Minigame2","path":"rooms/Minigame2/Minigame2.yy",},},
     {"roomId":{"name":"Minigame3","path":"rooms/Minigame3/Minigame3.yy",},},
+    {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

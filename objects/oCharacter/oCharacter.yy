@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCharacter",
-    "path":"sprites/sCharacter/sCharacter.yy",
+    "name":"spr_playerSideIdle",
+    "path":"sprites/spr_playerSideIdle/spr_playerSideIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

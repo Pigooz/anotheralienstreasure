@@ -58,6 +58,7 @@
     {"id":{"name":"sCharacter","path":"sprites/sCharacter/sCharacter.yy",},},
     {"id":{"name":"sGround","path":"sprites/sGround/sGround.yy",},},
     {"id":{"name":"sMissionControl","path":"sprites/sMissionControl/sMissionControl.yy",},},
+    {"id":{"name":"spr_playerSideIdle","path":"sprites/spr_playerSideIdle/spr_playerSideIdle.yy",},},
     {"id":{"name":"sTrash1","path":"sprites/sTrash1/sTrash1.yy",},},
     {"id":{"name":"sTrash2","path":"sprites/sTrash2/sTrash2.yy",},},
     {"id":{"name":"sTrashBag","path":"sprites/sTrashBag/sTrashBag.yy",},},

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_playerSideIdle",
-    "path":"sprites/spr_playerSideIdle/spr_playerSideIdle.yy",
+    "name":"spr_playerSideRun",
+    "path":"sprites/spr_playerSideRun/spr_playerSideRun.yy",
   },
   "spriteMaskId":null,
   "visible":true,

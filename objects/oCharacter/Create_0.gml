@@ -1,2 +1,1 @@
-xsp = 0
-ysp = 0
+my_speed = 4;

@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"test2",
-  "eventList":[],
+  "%Name":"oGamemanager",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"test2",
+  "name":"oGamemanager",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

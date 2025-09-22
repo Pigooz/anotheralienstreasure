@@ -15,5 +15,10 @@ if place_meeting(x,y,oTrash1)
 
 if place_meeting(x,y,oCar)
 {
-	room_restart()
+	room_goto(MainLevel)
+}
+
+if place_meeting(x,y,oTrash3)
+{
+	room_goto(MainLevel)
 }

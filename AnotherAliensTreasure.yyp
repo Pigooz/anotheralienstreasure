@@ -52,6 +52,7 @@
     {"id":{"name":"oTrash2","path":"objects/oTrash2/oTrash2.yy",},},
     {"id":{"name":"oTrash3","path":"objects/oTrash3/oTrash3.yy",},},
     {"id":{"name":"oTrashBag","path":"objects/oTrashBag/oTrashBag.yy",},},
+    {"id":{"name":"oTrashFall","path":"objects/oTrashFall/oTrashFall.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"sMinigamepickup","path":"objects/sMinigamepickup/sMinigamepickup.yy",},},
     {"id":{"name":"MainLevel","path":"rooms/MainLevel/MainLevel.yy",},},

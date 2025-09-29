@@ -8,5 +8,5 @@ isPlaying = 1;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1D77CECD
-/// @DnDArgument : "code" "my_speed = 4;$(13_10)"
-my_speed = 4;
+/// @DnDArgument : "code" "my_speed = 5.5;$(13_10)"
+my_speed = 5.5;

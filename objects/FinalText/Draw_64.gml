@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 666F45D6
-/// @DnDArgument : "font" "fnt_menu"
-/// @DnDSaveInfo : "font" "fnt_menu"
-draw_set_font(fnt_menu);
+/// @DnDArgument : "font" "fnt_end"
+/// @DnDSaveInfo : "font" "fnt_end"
+draw_set_font(fnt_end);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -16,6 +16,10 @@ draw_set_alpha(l5E2D6D63_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 4BFF5640
+/// @DnDArgument : "x" "-200"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "400"
+/// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""Total trash collected:  ""
 /// @DnDArgument : "var" "score"
-draw_text(0, 0, string("Total trash collected:  ") + string(score));
+draw_text(x + -200, y + 400, string("Total trash collected:  ") + string(score));

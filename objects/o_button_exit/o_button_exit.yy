@@ -38,6 +38,9 @@
     "name":"s_button",
     "path":"sprites/s_button/s_button.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"s_button",
+    "path":"sprites/s_button/s_button.yy",
+  },
   "visible":true,
 }

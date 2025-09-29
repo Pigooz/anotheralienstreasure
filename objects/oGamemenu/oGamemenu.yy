@@ -6,8 +6,8 @@
   "name":"oGamemenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Manager Text",
+    "path":"folders/Objects/Manager Text.yy",
   },
   "parentObjectId":null,
   "persistent":false,

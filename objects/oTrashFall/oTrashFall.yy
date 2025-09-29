@@ -10,8 +10,8 @@
   "name":"oTrashFall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Interactables",
+    "path":"folders/Objects/Interactables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTrash1",
-    "path":"sprites/sTrash1/sTrash1.yy",
+    "name":"sTrash2",
+    "path":"sprites/sTrash2/sTrash2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

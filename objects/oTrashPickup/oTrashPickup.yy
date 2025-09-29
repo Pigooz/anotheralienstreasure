@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oTrashBag",
-  "eventList":[],
+  "%Name":"oTrashPickup",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oTrashBag",
+  "name":"oTrashPickup",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Interactables",
+    "path":"folders/Objects/Interactables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sTrash2",
+    "path":"sprites/sTrash2/sTrash2.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -30,6 +30,7 @@
     {"name":"inst_413442C","path":"rooms/MainLevel/MainLevel.yy",},
     {"name":"inst_6873D280","path":"rooms/MainLevel/MainLevel.yy",},
     {"name":"inst_3B84D7FB","path":"rooms/MainLevel/MainLevel.yy",},
+    {"name":"inst_50A1E589","path":"rooms/MainLevel/MainLevel.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -60,6 +61,7 @@
         {"$GMRInstance":"v2","%Name":"inst_413442C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_413442C","objectId":{"name":"oApplePickup","path":"objects/oApplePickup/oApplePickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.38369304,"scaleY":0.31772578,"x":623.80817,"y":799.0,},
         {"$GMRInstance":"v2","%Name":"inst_6873D280","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6873D280","objectId":{"name":"oCanPickup","path":"objects/oCanPickup/oCanPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.4772182,"scaleY":0.43645486,"x":796.2614,"y":750.0,},
         {"$GMRInstance":"v2","%Name":"inst_3B84D7FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3B84D7FB","objectId":{"name":"oBananaPickup","path":"objects/oBananaPickup/oBananaPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.34772182,"scaleY":0.22073579,"x":872.3262,"y":919.0,},
+        {"$GMRInstance":"v2","%Name":"inst_50A1E589","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_50A1E589","objectId":{"name":"oCar","path":"objects/oCar/oCar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.199194,"scaleY":4.3125,"x":579.2516,"y":118.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4288256409,"depth":200,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

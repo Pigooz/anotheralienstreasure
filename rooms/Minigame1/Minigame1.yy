@@ -21,6 +21,8 @@
     {"name":"inst_273EC883","path":"rooms/Minigame1/Minigame1.yy",},
     {"name":"inst_65205C63","path":"rooms/Minigame1/Minigame1.yy",},
     {"name":"inst_58FBEC42","path":"rooms/Minigame1/Minigame1.yy",},
+    {"name":"inst_327CFFE8","path":"rooms/Minigame1/Minigame1.yy",},
+    {"name":"inst_1593F16B","path":"rooms/Minigame1/Minigame1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -31,6 +33,12 @@
       ],"layers":[],"name":"Enemy","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"gameManager","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_48321346","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_48321346","objectId":{"name":"oGamemanager","path":"objects/oGamemanager/oGamemanager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":13.0,"scaleY":13.0,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v2","%Name":"inst_327CFFE8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_327CFFE8","objectId":{"name":"DialogueBox","path":"objects/DialogueBox/DialogueBox.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"DialogueBox","path":"objects/DialogueBox/DialogueBox.yy",},"propertyId":{"name":"dialogue","path":"objects/DialogueBox/DialogueBox.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"crabbyDialogue.json",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":684.0,"y":364.0,},
+        {"$GMRInstance":"v2","%Name":"inst_1593F16B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1593F16B","objectId":{"name":"DialoguePrompt","path":"objects/DialoguePrompt/DialoguePrompt.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"DialoguePrompt","path":"objects/DialoguePrompt/DialoguePrompt.yy",},"propertyId":{"name":"dialogue","path":"objects/DialoguePrompt/DialoguePrompt.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"crabbyDialogue.json",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":823.0,"y":592.0,},
       ],"layers":[],"name":"gameManager","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_6549EAF4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6549EAF4","objectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.08266666,"scaleY":0.061333336,"x":704.0,"y":704.0,},

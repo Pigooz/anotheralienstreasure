@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"oCan",
-    "path":"sprites/oCan/oCan.yy",
+    "name":"sCan",
+    "path":"sprites/sCan/sCan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

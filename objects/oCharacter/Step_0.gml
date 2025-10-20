@@ -62,12 +62,22 @@ else
 x=clamp(x, 0, room_width)
 y=clamp(y, 0, room_height)
 
-if place_meeting(x,y,oTrash1)
-{
-	room_goto_next()
+if place_meeting(x,y,oTrashrandroom)
+{	
+	randomize();
+	var random_room = irandom(array_length(global.room_list) -1);
+	var chosen_room = global.room_list[random_room];
+	room_goto(chosen_room)
+	
 }
 
 if place_meeting(x,y,oCar)
+{
+	room_goto(MainLevel)
+}
+
+
+if place_meeting(x,y,oTrash2)
 {
 	room_goto(MainLevel)
 }
@@ -81,4 +91,8 @@ if place_meeting(x,y,oSpike)
 {
 	x = 61;
 	y = 624;
+}
+if score == 30
+{
+	room_goto(EndScreen)
 }

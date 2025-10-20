@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"oBanana",
-    "path":"sprites/oBanana/oBanana.yy",
+    "name":"sBanana",
+    "path":"sprites/sBanana/sBanana.yy",
   },
   "spriteMaskId":null,
   "visible":true,

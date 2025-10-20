@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
-dialog.add(oApple, "hello");
-dialog.add(oBanana, "WHATAPP");
-dialog.add(oCan, "this is dialogue brother");
+dialog.add(sApple, "hello");
+dialog.add(sBanana, "WHATAPP");
+dialog.add(sCan, "this is dialogue brother");

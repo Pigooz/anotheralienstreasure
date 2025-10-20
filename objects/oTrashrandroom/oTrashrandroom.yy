@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oTrash1",
+  "%Name":"oTrashrandroom",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oTrash1",
+  "name":"oTrashrandroom",
   "overriddenProperties":[],
   "parent":{
     "name":"Interactables",

@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"oApple",
-    "path":"sprites/oApple/oApple.yy",
+    "name":"sApple",
+    "path":"sprites/sApple/sApple.yy",
   },
   "spriteMaskId":null,
   "visible":true,

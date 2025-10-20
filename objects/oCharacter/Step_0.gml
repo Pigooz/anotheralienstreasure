@@ -87,12 +87,21 @@ if place_meeting(x,y,oTrash3)
 	room_goto(EndScreen)
 }
 
+
+if room == Minigame3
+{
+	my_speed = 1.5
+}
+else
+{
+	my_speed = 3
+}
 if place_meeting(x,y,oSpike)
 {
 	x = 61;
 	y = 624;
 }
-if score == 30
+if score == 75
 {
 	room_goto(EndScreen)
 }

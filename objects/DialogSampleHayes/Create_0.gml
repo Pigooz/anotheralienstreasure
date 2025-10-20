@@ -2,4 +2,4 @@
 event_inherited();
 dialog.add(sApple, "hello");
 dialog.add(sBanana, "WHATAPP");
-dialog.add(sCan, "this is dialogue brother");
+dialog.add(sCan, "picking up trash and stuff");

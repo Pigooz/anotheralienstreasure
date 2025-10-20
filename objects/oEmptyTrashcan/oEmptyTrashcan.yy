@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oTrash2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oEmptyTrashcan",
+  "eventList":[],
   "managed":true,
-  "name":"oTrash2",
+  "name":"oEmptyTrashcan",
   "overriddenProperties":[],
   "parent":{
     "name":"Interactables",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTrash1",
-    "path":"sprites/sTrash1/sTrash1.yy",
+    "name":"sTrashcan",
+    "path":"sprites/sTrashcan/sTrashcan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

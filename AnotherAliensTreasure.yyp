@@ -16,6 +16,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Dialogue","folderPath":"folders/Objects/Dialogue.yy","name":"Dialogue","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Interactables","folderPath":"folders/Objects/Interactables.yy","name":"Interactables","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Main Menu","folderPath":"folders/Objects/Main Menu.yy","name":"Main Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Manager Text","folderPath":"folders/Objects/Manager Text.yy","name":"Manager Text","resourceType":"GMFolder","resourceVersion":"2.0",},

@@ -1,2 +1,2 @@
 randomize();
-x += random(carSpeed);
+x += carSpeed;

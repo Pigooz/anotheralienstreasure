@@ -1,19 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"DialogSampleHayes",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oNPC1",
+  "eventList":[],
   "managed":true,
-  "name":"DialogSampleHayes",
+  "name":"oNPC1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objects/Dialogue.yy",
+    "name":"Interactables",
+    "path":"folders/Objects/Interactables.yy",
   },
   "parentObjectId":{
-    "name":"oDialogParentHayes",
-    "path":"objects/oDialogParentHayes/oDialogParentHayes.yy",
+    "name":"oNPCparent",
+    "path":"objects/oNPCparent/oNPCparent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -32,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_playerRight",
+    "path":"sprites/s_playerRight/s_playerRight.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

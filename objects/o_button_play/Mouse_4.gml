@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(MainLevel);
+room_goto(C1);
 

@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oNPC_2",
-  "eventList":[],
+  "%Name":"Cut1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oNPC_2",
+  "name":"Cut1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Interactables",
-    "path":"folders/Objects/Interactables.yy",
+    "name":"Cutscenes",
+    "path":"folders/Objects/Cutscenes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"_1",
+    "path":"sprites/_1/_1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

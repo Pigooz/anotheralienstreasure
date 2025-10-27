@@ -56,7 +56,15 @@ else
 		active = false;
 	}
 }
-
+if (keyboard_check_pressed(vk_space))
+{
+	create_dialogue([
+	{
+		name: "testing testing",
+		msg: "IT WORKS MAN"
+	}
+	])
+}
 // Room Boundaries
 
 x=clamp(x, 0, room_width)

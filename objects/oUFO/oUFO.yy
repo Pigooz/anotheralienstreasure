@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oBuilding1",
+  "%Name":"oUFO",
   "eventList":[],
   "managed":true,
-  "name":"oBuilding1",
+  "name":"oUFO",
   "overriddenProperties":[],
   "parent":{
     "name":"Interactables",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

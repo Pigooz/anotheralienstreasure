@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oBuilding1",
+  "%Name":"oFenceTop",
   "eventList":[],
   "managed":true,
-  "name":"oBuilding1",
+  "name":"oFenceTop",
   "overriddenProperties":[],
   "parent":{
     "name":"Interactables",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sHouse",
-    "path":"sprites/sHouse/sHouse.yy",
+    "name":"sFenceTop",
+    "path":"sprites/sFenceTop/sFenceTop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

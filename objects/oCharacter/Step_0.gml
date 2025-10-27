@@ -31,7 +31,8 @@ if (_xinput != 0 and _yinput != 0){
 _xinput += hsp;
 _yinput += vsp;
 
-move_and_collide(_xinput * my_speed, _yinput * my_speed, oWall)
+move_and_collide(_xinput * my_speed, _yinput * my_speed, oFence)
+
 
 // Dialogue
 
@@ -56,15 +57,7 @@ else
 		active = false;
 	}
 }
-if (keyboard_check_pressed(vk_space))
-{
-	create_dialogue([
-	{
-		name: "testing testing",
-		msg: "IT WORKS MAN"
-	}
-	])
-}
+
 // Room Boundaries
 
 x=clamp(x, 0, room_width)
@@ -94,6 +87,10 @@ if place_meeting(x,y,oTrash3)
 {
 	room_goto(EndScreen)
 }
+if place_meeting(x,y,oEnemy)
+{
+	room_goto(MainLevel)
+}
 
 
 if room == Minigame3
@@ -109,7 +106,7 @@ if place_meeting(x,y,oSpike)
 	x = 61;
 	y = 624;
 }
-if score == 75
+if score == 100
 {
 	room_goto(EndScreen)
 }

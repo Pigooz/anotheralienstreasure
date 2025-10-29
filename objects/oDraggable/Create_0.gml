@@ -1,5 +1,5 @@
 randomize();
-sprite_index = choose (sCan, sBanana, sApple, sTrash1);
+sprite_index = choose (sCan, sBanana, sApple, sTrashbig);
 
 grab = false;
 xx = 0;

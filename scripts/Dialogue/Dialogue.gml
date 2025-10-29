@@ -17,21 +17,6 @@ welcome_dialog = [
 	name:"Goober",
 	msg: "Trash pickin time" 
 
-},
-{
-	name:"Goober",
-	msg: "Trash pickin time" 
-
-},
-{
-	name: "Goober",
-	msg: "Trash pickin time" 
-
-},
-{
-	name: "Goober",
-	msg: "Trash pickin time" 
-
 }
 
 ]

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTrash1",
-    "path":"sprites/sTrash1/sTrash1.yy",
+    "name":"sTrashExit",
+    "path":"sprites/sTrashExit/sTrashExit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

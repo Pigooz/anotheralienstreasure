@@ -31,7 +31,8 @@ if (_xinput != 0 and _yinput != 0){
 _xinput += hsp;
 _yinput += vsp;
 
-move_and_collide(_xinput * my_speed, _yinput * my_speed, oFence)
+move_and_collide(_xinput * my_speed, _yinput * my_speed, [oFence, oFenceTop, oWall])
+
 
 
 // Dialogue
@@ -65,11 +66,7 @@ y=clamp(y, 0, room_height)
 
 if place_meeting(x,y,oTrashrandroom)
 {	
-	randomize();
-	var random_room = irandom(array_length(global.room_list) -1);
-	var chosen_room = global.room_list[random_room];
-	room_goto(chosen_room)
-	
+	alarm[0] = 0.2*room_speed;	
 }
 
 if place_meeting(x,y,oCar)
@@ -106,7 +103,7 @@ if place_meeting(x,y,oSpike)
 	x = 61;
 	y = 624;
 }
-if score == 100
+if score == 150
 {
 	room_goto(EndScreen)
 }

@@ -82,7 +82,7 @@ if place_meeting(x,y,oTrash2)
 
 if place_meeting(x,y,oTrash3)
 {
-	room_goto(EndScreen)
+	room_goto(Minigame6)
 }
 if place_meeting(x,y,oEnemy)
 {
@@ -102,6 +102,7 @@ if place_meeting(x,y,oSpike)
 {
 	x = 61;
 	y = 624;
+	room_goto(MainLevel)
 }
 if score == 150
 {

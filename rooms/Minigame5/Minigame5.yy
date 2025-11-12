@@ -90,7 +90,7 @@
         {"$GMRInstance":"v2","%Name":"inst_68A16F43","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68A16F43","objectId":{"name":"oBananaPickup","path":"objects/oBananaPickup/oBananaPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2326139,"scaleY":0.19732441,"x":672.0,"y":64.0,},
         {"$GMRInstance":"v2","%Name":"inst_5C58AB4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C58AB4D","objectId":{"name":"oApplePickup","path":"objects/oApplePickup/oApplePickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.30935252,"scaleY":0.19732441,"x":1024.0,"y":448.0,},
         {"$GMRInstance":"v2","%Name":"inst_43EA24D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43EA24D0","objectId":{"name":"oBananaPickup","path":"objects/oBananaPickup/oBananaPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2326139,"scaleY":0.19732441,"x":768.0,"y":608.0,},
-        {"$GMRInstance":"v2","%Name":"inst_6042BA4B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6042BA4B","objectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.061333332,"scaleY":0.061333336,"x":64.0,"y":704.0,},
+        {"$GMRInstance":"v2","%Name":"inst_6042BA4B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6042BA4B","objectId":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.125,"scaleY":0.125,"x":96.0,"y":672.0,},
         {"$GMRInstance":"v2","%Name":"inst_6E55F45A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E55F45A","objectId":{"name":"oCanPickup","path":"objects/oCanPickup/oCanPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2326139,"scaleY":0.19732442,"x":672.0,"y":704.0,},
         {"$GMRInstance":"v2","%Name":"inst_6DD63259","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DD63259","objectId":{"name":"oApplePickup","path":"objects/oApplePickup/oApplePickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.30935252,"scaleY":0.19732441,"x":768.0,"y":480.0,},
         {"$GMRInstance":"v2","%Name":"inst_569AE6E9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_569AE6E9","objectId":{"name":"oGamemanager","path":"objects/oGamemanager/oGamemanager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":0.0,"y":0.0,},
@@ -121,10 +121,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":1500,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":1500,
   },
   "sequenceId":null,
   "views":[

@@ -88,16 +88,12 @@ if place_meeting(x,y,oEnemy)
 {
 	room_goto(MainLevel)
 }
+if place_meeting(x,y,oEnemyHorizontal)
+{
+	room_goto(MainLevel)
+}
 
 
-if room == Minigame3
-{
-	my_speed = 1.5
-}
-else
-{
-	my_speed = 3
-}
 if place_meeting(x,y,oSpike)
 {
 	x = 61;

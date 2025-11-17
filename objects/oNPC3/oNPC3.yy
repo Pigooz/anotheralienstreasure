@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oNPC2",
+  "%Name":"oNPC3",
   "eventList":[],
   "managed":true,
-  "name":"oNPC2",
+  "name":"oNPC3",
   "overriddenProperties":[],
   "parent":{
     "name":"Interactables",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_playerRight",
-    "path":"sprites/s_playerRight/s_playerRight.yy",
+    "name":"s_Koi",
+    "path":"sprites/s_Koi/s_Koi.yy",
   },
   "spriteMaskId":null,
   "visible":true,

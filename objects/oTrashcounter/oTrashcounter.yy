@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oLoading2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oTrashcounter",
+  "eventList":[],
   "managed":true,
-  "name":"oLoading2",
+  "name":"oTrashcounter",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objects/Loading.yy",
+    "name":"Interactables",
+    "path":"folders/Objects/Interactables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"minigame_load_1_copy",
-    "path":"sprites/minigame_load_1_copy/minigame_load_1_copy.yy",
+    "name":"sTrashcount",
+    "path":"sprites/sTrashcount/sTrashcount.yy",
   },
   "spriteMaskId":null,
   "visible":true,

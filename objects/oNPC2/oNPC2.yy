@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_playerRight",
-    "path":"sprites/s_playerRight/s_playerRight.yy",
+    "name":"s_Shadow",
+    "path":"sprites/s_Shadow/s_Shadow.yy",
   },
   "spriteMaskId":null,
   "visible":true,

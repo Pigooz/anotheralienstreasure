@@ -32,6 +32,8 @@
     {"name":"inst_24A0920F","path":"rooms/Minigame6/Minigame6.yy",},
     {"name":"inst_608B365C","path":"rooms/Minigame6/Minigame6.yy",},
     {"name":"inst_4CFE0139","path":"rooms/Minigame6/Minigame6.yy",},
+    {"name":"inst_339043F5","path":"rooms/Minigame6/Minigame6.yy",},
+    {"name":"inst_3DDE2EF2","path":"rooms/Minigame6/Minigame6.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -62,6 +64,8 @@
         {"$GMRInstance":"v4","%Name":"inst_608B365C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_608B365C","objectId":{"name":"oEnemyHorizontal","path":"objects/oEnemyHorizontal/oEnemyHorizontal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3392.0,"y":1376.0,},
         {"$GMRInstance":"v4","%Name":"inst_3C28EB8E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3C28EB8E","objectId":{"name":"oTrash2","path":"objects/oTrash2/oTrash2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":2944.0,"y":64.0,},
         {"$GMRInstance":"v4","%Name":"inst_4CFE0139","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4CFE0139","objectId":{"name":"oCharacter_1","path":"objects/oCharacter_1/oCharacter_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.125,"scaleY":0.125,"x":0.0,"y":768.0,},
+        {"$GMRInstance":"v4","%Name":"inst_339043F5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_339043F5","objectId":{"name":"oGamemanager","path":"objects/oGamemanager/oGamemanager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3DDE2EF2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3DDE2EF2","objectId":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":32.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4288716960,"depth":100,"effectEnabled":true,"effectType":"_filter_clouds","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[
         {"name":"g_CloudScale","type":0,"value":"64",},

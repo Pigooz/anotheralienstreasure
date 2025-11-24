@@ -136,6 +136,8 @@
     {"id":{"name":"minigame_load_1_copy","path":"sprites/minigame_load_1_copy/minigame_load_1_copy.yy",},},
     {"id":{"name":"minigame_load_2_copy","path":"sprites/minigame_load_2_copy/minigame_load_2_copy.yy",},},
     {"id":{"name":"minigame_load_3_copy","path":"sprites/minigame_load_3_copy/minigame_load_3_copy.yy",},},
+    {"id":{"name":"minigame_load_4_copy","path":"sprites/minigame_load_4_copy/minigame_load_4_copy.yy",},},
+    {"id":{"name":"minigame_load_5_copy","path":"sprites/minigame_load_5_copy/minigame_load_5_copy.yy",},},
     {"id":{"name":"s_basketSideIdle_1","path":"sprites/s_basketSideIdle_1/s_basketSideIdle_1.yy",},},
     {"id":{"name":"s_basketSideIdle","path":"sprites/s_basketSideIdle/s_basketSideIdle.yy",},},
     {"id":{"name":"s_basketSideRun_1","path":"sprites/s_basketSideRun_1/s_basketSideRun_1.yy",},},

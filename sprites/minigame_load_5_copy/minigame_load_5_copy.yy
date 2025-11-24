@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"minigame_load_5_copy",
   "bboxMode":0,
   "bbox_bottom":1499,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"923875ed-4b81-44ff-acab-a7bda1377f8e","name":"923875ed-4b81-44ff-acab-a7bda1377f8e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"923875ed-4b81-44ff-acab-a7bda1377f8e","name":"923875ed-4b81-44ff-acab-a7bda1377f8e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -63,6 +63,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":1500.0,
+    "seqWidth":1500.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,

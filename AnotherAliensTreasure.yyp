@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"AnotherAliensTreasure",
   "AudioGroups":[
-    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -44,7 +44,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.0.207",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"AnotherAliensTreasure",
   "resources":[
@@ -88,6 +88,7 @@
     {"id":{"name":"oLoading4","path":"objects/oLoading4/oLoading4.yy",},},
     {"id":{"name":"oLoading5","path":"objects/oLoading5/oLoading5.yy",},},
     {"id":{"name":"oLogo","path":"objects/oLogo/oLogo.yy",},},
+    {"id":{"name":"oMainTimer","path":"objects/oMainTimer/oMainTimer.yy",},},
     {"id":{"name":"oMinigamepickup","path":"objects/oMinigamepickup/oMinigamepickup.yy",},},
     {"id":{"name":"oMissionControl","path":"objects/oMissionControl/oMissionControl.yy",},},
     {"id":{"name":"oNPC1","path":"objects/oNPC1/oNPC1.yy",},},
@@ -95,6 +96,7 @@
     {"id":{"name":"oNPC3","path":"objects/oNPC3/oNPC3.yy",},},
     {"id":{"name":"oNPC4","path":"objects/oNPC4/oNPC4.yy",},},
     {"id":{"name":"oNPCparent","path":"objects/oNPCparent/oNPCparent.yy",},},
+    {"id":{"name":"oRandtrash","path":"objects/oRandtrash/oRandtrash.yy",},},
     {"id":{"name":"oRoad","path":"objects/oRoad/oRoad.yy",},},
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
     {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},},

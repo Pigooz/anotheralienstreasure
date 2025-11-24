@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oNPCparent",
+  "%Name":"oRandtrash",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oNPCparent",
+  "name":"oRandtrash",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objects/Dialogue.yy",
+    "name":"Interactables",
+    "path":"folders/Objects/Interactables.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,13 +25,14 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"dialog","filters":[],"listItems":[],"multiselect":false,"name":"dialog","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"-1","varType":4,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sTrash1",
+    "path":"sprites/sTrash1/sTrash1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

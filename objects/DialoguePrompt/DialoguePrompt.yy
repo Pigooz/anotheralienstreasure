@@ -28,9 +28,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"portrait","filters":[],"listItems":[],"multiselect":false,"name":"portrait","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_Exclamation","path":"sprites/spr_Exclamation/spr_Exclamation.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_Exclamation","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"collision_box_visible","filters":[],"listItems":[],"multiselect":false,"name":"collision_box_visible","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
-    {"$GMObjectProperty":"v1","%Name":"dialogue","filters":[],"listItems":[],"multiselect":false,"name":"dialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"portrait","filters":[],"listItems":[],"multiselect":false,"name":"portrait","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_Exclamation","path":"sprites/spr_Exclamation/spr_Exclamation.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_Exclamation","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"collision_box_visible","filters":[],"listItems":[],"multiselect":false,"name":"collision_box_visible","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue","filters":[],"listItems":[],"multiselect":false,"name":"dialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

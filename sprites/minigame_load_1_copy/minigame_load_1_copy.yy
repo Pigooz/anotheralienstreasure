@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"minigame_load_1_copy",
   "bboxMode":0,
   "bbox_bottom":1499,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0c915130-ed6b-4de5-8bea-0c7e6978b30f","name":"0c915130-ed6b-4de5-8bea-0c7e6978b30f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0c915130-ed6b-4de5-8bea-0c7e6978b30f","name":"0c915130-ed6b-4de5-8bea-0c7e6978b30f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

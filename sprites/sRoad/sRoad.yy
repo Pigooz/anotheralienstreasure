@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sRoad",
   "bboxMode":0,
   "bbox_bottom":141,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ef4badab-c0ca-441b-9a34-72a571141079","name":"ef4badab-c0ca-441b-9a34-72a571141079","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ef4badab-c0ca-441b-9a34-72a571141079","name":"ef4badab-c0ca-441b-9a34-72a571141079","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

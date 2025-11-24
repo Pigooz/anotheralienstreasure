@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"AnotherAliensTreasure",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -44,7 +44,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"AnotherAliensTreasure",
   "resources":[
@@ -97,6 +97,7 @@
     {"id":{"name":"oNPCparent","path":"objects/oNPCparent/oNPCparent.yy",},},
     {"id":{"name":"oRoad","path":"objects/oRoad/oRoad.yy",},},
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
+    {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},},
     {"id":{"name":"oTrash2","path":"objects/oTrash2/oTrash2.yy",},},
     {"id":{"name":"oTrash3","path":"objects/oTrash3/oTrash3.yy",},},
     {"id":{"name":"oTrashcounter","path":"objects/oTrashcounter/oTrashcounter.yy",},},

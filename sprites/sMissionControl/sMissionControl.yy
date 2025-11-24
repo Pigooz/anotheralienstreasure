@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sMissionControl",
   "bboxMode":0,
   "bbox_bottom":0,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3ef8f9eb-5c50-45f0-bacf-0ec353669f2e","name":"3ef8f9eb-5c50-45f0-bacf-0ec353669f2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3ef8f9eb-5c50-45f0-bacf-0ec353669f2e","name":"3ef8f9eb-5c50-45f0-bacf-0ec353669f2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

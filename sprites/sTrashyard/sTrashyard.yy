@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sTrashyard",
   "bboxMode":0,
   "bbox_bottom":899,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"009e263f-8340-405d-a10c-81ac739e3154","name":"009e263f-8340-405d-a10c-81ac739e3154","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"009e263f-8340-405d-a10c-81ac739e3154","name":"009e263f-8340-405d-a10c-81ac739e3154","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

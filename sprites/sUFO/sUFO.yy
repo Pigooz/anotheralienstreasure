@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sUFO",
   "bboxMode":0,
   "bbox_bottom":1703,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"37904c77-f77e-434a-8463-f9485868c177","name":"37904c77-f77e-434a-8463-f9485868c177","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"37904c77-f77e-434a-8463-f9485868c177","name":"37904c77-f77e-434a-8463-f9485868c177","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

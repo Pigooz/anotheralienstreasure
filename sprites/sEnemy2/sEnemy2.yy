@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sEnemy2",
   "bboxMode":0,
   "bbox_bottom":50,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7ad619c5-c76b-4a5e-8c4a-99baabcbb65e","name":"7ad619c5-c76b-4a5e-8c4a-99baabcbb65e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7ad619c5-c76b-4a5e-8c4a-99baabcbb65e","name":"7ad619c5-c76b-4a5e-8c4a-99baabcbb65e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

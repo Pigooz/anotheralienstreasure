@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sFenceTop",
   "bboxMode":0,
   "bbox_bottom":255,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"fe8b24d2-a9ae-4363-b0e4-509e210e2f9a","name":"fe8b24d2-a9ae-4363-b0e4-509e210e2f9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fe8b24d2-a9ae-4363-b0e4-509e210e2f9a","name":"fe8b24d2-a9ae-4363-b0e4-509e210e2f9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

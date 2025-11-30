@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sSuburb",
   "bboxMode":0,
   "bbox_bottom":359,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f6c8b0e7-3b5b-4d34-b43d-32ea85da9e47","name":"f6c8b0e7-3b5b-4d34-b43d-32ea85da9e47","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f6c8b0e7-3b5b-4d34-b43d-32ea85da9e47","name":"f6c8b0e7-3b5b-4d34-b43d-32ea85da9e47","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

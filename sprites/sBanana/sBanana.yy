@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sBanana",
   "bboxMode":2,
   "bbox_bottom":396,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8ddb7015-e51c-435a-ac77-e6849389ea38","name":"8ddb7015-e51c-435a-ac77-e6849389ea38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8ddb7015-e51c-435a-ac77-e6849389ea38","name":"8ddb7015-e51c-435a-ac77-e6849389ea38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

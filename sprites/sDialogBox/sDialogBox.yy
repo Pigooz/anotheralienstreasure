@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sDialogBox",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"97a5766e-d03c-49a4-bc76-7eebbbe2e6c5","name":"97a5766e-d03c-49a4-bc76-7eebbbe2e6c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"97a5766e-d03c-49a4-bc76-7eebbbe2e6c5","name":"97a5766e-d03c-49a4-bc76-7eebbbe2e6c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

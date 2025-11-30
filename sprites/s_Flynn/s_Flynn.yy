@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_Flynn",
   "bboxMode":0,
   "bbox_bottom":506,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5d051d2d-c145-468b-b1ae-277527935b93","name":"5d051d2d-c145-468b-b1ae-277527935b93","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5d051d2d-c145-468b-b1ae-277527935b93","name":"5d051d2d-c145-468b-b1ae-277527935b93","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

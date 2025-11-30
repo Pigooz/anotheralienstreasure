@@ -37,9 +37,6 @@
     "name":"s_playerUFO",
     "path":"sprites/s_playerUFO/s_playerUFO.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_playerSideRun",
-    "path":"sprites/spr_playerSideRun/spr_playerSideRun.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

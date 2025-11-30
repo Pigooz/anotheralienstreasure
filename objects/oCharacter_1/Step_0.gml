@@ -79,11 +79,6 @@ if place_meeting(x,y,oTrash2)
 {
 	room_goto(MainLevel)
 }
-
-if place_meeting(x,y,oTrash3)
-{
-	room_goto(Minigame6)
-}
 if place_meeting(x,y,oEnemy)
 {
 	room_goto(MainLevel)

@@ -1,1 +1,1 @@
-room_goto(Minigame5)
+room_goto(Minigame6)

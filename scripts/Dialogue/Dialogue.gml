@@ -78,3 +78,24 @@ cutscene_dialog_4 = [
 
 }
 ]
+shadow_dialog = [
+{
+	name:"Shadow",
+	msg: "Earthlings drop a lot af stuff, please don't." 
+
+}
+]
+koi_dialog = [
+{
+	name:"Koi",
+	msg: "A piece of trash a day keeps the doctor away, wait, that's not how it goes." 
+
+}
+]
+flynn_dialog = [
+{
+	name:"Flynn",
+	msg: "UGH, more trash, what is up with these humans?" 
+
+}
+]

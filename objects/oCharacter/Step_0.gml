@@ -66,11 +66,13 @@ y=clamp(y, 0, room_height)
 
 if place_meeting(x,y,oTrashrandroom)
 {	
-	alarm[0] = 0.2*room_speed;	
+	alarm[0] = 0.2*room_speed;
+	audio_play_sound(snd_pickup, 0, false)
 }
 
 if place_meeting(x,y,oCar)
 {
+	audio_play_sound(snd_death, 0, false);
 	room_goto(MainLevel)
 }
 
@@ -81,6 +83,7 @@ if place_meeting(x,y,oTrash2)
 }
 if place_meeting(x,y,oEnemy)
 {
+	audio_play_sound(snd_death, 0, false);
 	room_goto(MainLevel)
 }
 if place_meeting(x,y,oEnemyHorizontal)
@@ -95,7 +98,7 @@ if place_meeting(x,y,oSpike)
 	y = 624;
 	room_goto(MainLevel)
 }
-if score == 150
+if score == 175
 {
 	room_goto(EndScreen)
 }

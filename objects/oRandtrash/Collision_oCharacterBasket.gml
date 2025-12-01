@@ -1,0 +1,1 @@
+audio_play_sound(snd_pickup, 0, false, 1, 0, random_range(0.6, 1.1));
